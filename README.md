@@ -1,6 +1,6 @@
 # Django Learning
 ### Tutorials for django
-#### Instal
+#### Install
 
 1. Install python3
 
